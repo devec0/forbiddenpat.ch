@@ -1,0 +1,14 @@
+name: forbiddenpatch
+markdown: redcarpet
+hilighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
+  highlighter: rouge
+timezone: Australia/NSW
+charset: UTF-8
+sass:
+  style: :compressed
+  sass_dir: _sass
+gems:
+  - jekyll-srcset
